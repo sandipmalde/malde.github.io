@@ -1,0 +1,60 @@
+body{
+	background-image: url("images/bg.jpg");
+	background-attachment: fixed;
+	ackground-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #4d4d4d;
+	font-size: 1em;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+	margin-top: 10px;
+	margin-right: center;
+	margin-bottom: 10px;
+	margin-left: center;
+}
+h1{
+	color: red;
+	font-size: 7em;
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+h2{
+	color: #d41243;
+	font-size: 2em;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+h3{
+	color: #36e0b9;
+	font-size: automatic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+h4{
+	color: #ccecff;
+	font-size: automatic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+p{
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+}

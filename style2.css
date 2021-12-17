@@ -1,0 +1,12 @@
+a:visited{
+	color: green;
+	background-color: white;
+}
+a:link{
+	color: blue;
+	background-color: white;
+}
+a:hover{
+	color: red;
+	background-color: black;
+}
