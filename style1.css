@@ -9,6 +9,10 @@ body{
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 main{
+	border-left: 2px solid black;
+    	border-right: 2px solid black;
+	border-top: 2px solid black;
+    	border-bottom: 2px solid black;
 	margin-top: 10px;
 	margin-right: center;
 	margin-bottom: 10px;
